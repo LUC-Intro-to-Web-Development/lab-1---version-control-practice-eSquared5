@@ -1,0 +1,2 @@
+# ignore all documents with .txt extension
+*.txt
